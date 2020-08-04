@@ -4,7 +4,7 @@
 
 | Week                                                           | Title / Contents     | Materials                                                                | Project / Exercise                                      |
 | ----------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-|  Week 1 | Introducing Objects | [Slides](Lectures/OOP - Topic 01 - Lecture - Introducing Objects.pdf) | [P1.1 - Object Oriented Hello World](projects/P1.1), [P1.2 - C# Reference Sheet](projects/P1.2)|
+|  Week 1 | Introducing Objects | [Slides](Lectures/OOP - Topic 01 - Lecture - Introducing Objects) | [P1.1 - Object Oriented Hello World](projects/P1.1), [P1.2 - C# Reference Sheet](projects/P1.2)|
 | Week 2| Semi-Structed Data| [Slides]() | - |
 | Week 3 | -  | [Slides]() | - |
 

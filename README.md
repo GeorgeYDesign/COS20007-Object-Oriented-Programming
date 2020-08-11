@@ -5,7 +5,7 @@
 | Week                                                           | Title / Contents     | Materials                                                                | Project / Exercise                                      |
 | ----------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
 |  Week 1 | Introducing Objects | [Slides](Lectures/OOP - Topic 01 - Lecture - Introducing Objects.pdf) | [P1.1 - Object Oriented Hello World](Projects/P1.1), [P1.2 - C# Reference Sheet](Projects/P1.2)|
-| Week 2| Semi-Structed Data| [Slides]() | - |
+| Week 2| Semi-Structed Data| [Slides]() | [P2.1 - Counter Objects](Projects/P2.1), [P2.2 - Drawing Shapes Program](Projects/P2.2), [P2.3 - Case Study Iteration 1](Projects/P2.3) |
 | Week 3 | -  | [Slides]() | - |
 
 ## Recommended Resources

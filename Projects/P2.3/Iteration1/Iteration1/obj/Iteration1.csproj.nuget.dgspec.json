@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/Iteration1.csproj": {}
+  },
+  "projects": {
+    "/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/Iteration1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/Iteration1.csproj",
+        "projectName": "Iteration1",
+        "projectPath": "/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/Iteration1.csproj",
+        "packagesPath": "/Users/george/.nuget/packages/",
+        "outputPath": "/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/george/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

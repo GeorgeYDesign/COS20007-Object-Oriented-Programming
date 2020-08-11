@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{DF3E2894-5428-469C-A6F8-B7A67F8DFC2D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iteration1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Iteration1/Test_Identifiable_Objects.cs">
+    <Files>
+      <File FileName="Iteration1/Program.cs" Line="15" Column="2" />
+      <File FileName="NUnitTest/Test_Identifiable_Objects.cs" Line="4" Column="3" />
+      <File FileName="Iteration1/Identifiable_Objects.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration1" expanded="True">
+            <Node name="Iteration1" expanded="True">
+              <Node name="Test_Identifiable_Objects.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Iteration1" expanded="True" selected="True">
+            <Node name="Iteration1" expanded="True">
+              <Node name="Iteration1" expanded="True">
+                <Node name="Test_Identifiable_Object" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

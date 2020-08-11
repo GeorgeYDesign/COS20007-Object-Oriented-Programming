@@ -1,0 +1,11 @@
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/bin/Debug/netcoreapp3.1/CounterTest.deps.json
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/bin/Debug/netcoreapp3.1/CounterTest.runtimeconfig.json
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/bin/Debug/netcoreapp3.1/CounterTest.runtimeconfig.dev.json
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/bin/Debug/netcoreapp3.1/CounterTest.dll
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/bin/Debug/netcoreapp3.1/CounterTest.pdb
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/obj/Debug/netcoreapp3.1/CounterTest.AssemblyInfoInputs.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/obj/Debug/netcoreapp3.1/CounterTest.AssemblyInfo.cs
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/obj/Debug/netcoreapp3.1/CounterTest.csproj.CoreCompileInputs.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/obj/Debug/netcoreapp3.1/CounterTest.dll
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/obj/Debug/netcoreapp3.1/CounterTest.pdb
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.1/CounterTest/CounterTest/obj/Debug/netcoreapp3.1/CounterTest.genruntimeconfig.cache

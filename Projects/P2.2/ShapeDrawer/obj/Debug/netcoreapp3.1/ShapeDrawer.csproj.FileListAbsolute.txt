@@ -1,0 +1,12 @@
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.deps.json
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.runtimeconfig.json
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.runtimeconfig.dev.json
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.dll
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.pdb
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.csprojAssemblyReference.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.AssemblyInfo.cs
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.dll
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.pdb
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.genruntimeconfig.cache

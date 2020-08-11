@@ -1,0 +1,4 @@
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/obj/Debug/netcoreapp3.1/Iteration1.csprojAssemblyReference.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/obj/Debug/netcoreapp3.1/Iteration1.AssemblyInfoInputs.cache
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/obj/Debug/netcoreapp3.1/Iteration1.AssemblyInfo.cs
+/Users/george/Desktop/COS20007 - Object Oriented Programming/Projects/P2.3/Iteration1/Iteration1/obj/Debug/netcoreapp3.1/Iteration1.csproj.CoreCompileInputs.cache
